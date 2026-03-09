@@ -1,0 +1,19 @@
+body{
+    font-family:Arial;
+    background-color: black;
+    color: white;
+}
+
+#count{
+    font-size:40px;
+    margin:20px;
+}
+
+#error{
+    color:red;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+}
